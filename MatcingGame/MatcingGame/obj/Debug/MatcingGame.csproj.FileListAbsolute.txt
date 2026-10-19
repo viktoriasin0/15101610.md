@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\bin\Debug\MatcingGame.exe.config
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\bin\Debug\MatcingGame.exe
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\bin\Debug\MatcingGame.pdb
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.Form1.resources
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.Properties.Resources.resources
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.exe
+C:\Users\USER\source\repos\MatcingGame\MatcingGame\obj\Debug\MatcingGame.pdb
