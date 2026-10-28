@@ -37,13 +37,15 @@
 •	Перед вами 4 кнопки
 •	Нажимайте на каждую кнопку, чтобы увидеть скрытый текст
 •	Смотрите результат
-<img width="974" height="635" alt="image" src="https://github.com/user-attachments/assets/780833da-34f1-43b0-ba8c-b0c3c8e913a9" />
+<img width="974" height="635" alt="image" src="https://github.com/user-attachments/assets/4933a534-70d3-437f-8f5b-12973c8c375f" />
+
 
 Задание 6:
 •	Перед вами консоль и две кнопки
 •	Нажмите на кнопку, чтоб заблокировать панель
 •	Нажмите на кнопку, чтоб разблокировать
-<img width="974" height="633" alt="image" src="https://github.com/user-attachments/assets/64bdde37-11f4-4c4f-9b29-5929a07c46ce" />
+<img width="974" height="633" alt="image" src="https://github.com/user-attachments/assets/e7443bb3-80e1-4462-8a74-c8ca27e536b2" />
+
 чуть ошиблись в названии
 Задание 7:
 •	Введите в консоль любой текст
@@ -51,12 +53,14 @@
 •	Сохраните заметку
 •	Нажмите другую кнопку
 •	Вы можете загрузить файл из библиотеки
-<img width="974" height="633" alt="image" src="https://github.com/user-attachments/assets/0e589f95-30cc-44dd-833f-ec3acd0b0021" />
+<img width="974" height="1098" alt="image" src="https://github.com/user-attachments/assets/7c485289-0e33-4978-8cb8-58636a837527" />
+
 
 Задание 8.1 и 8.2:
 •	Перед вами калькулятор
 •	Введите значения
 •	Решите задачу
-<img width="974" height="633" alt="image" src="https://github.com/user-attachments/assets/332bd989-9f44-4640-9800-e7c1a869d758" />
-<img width="974" height="633" alt="image" src="https://github.com/user-attachments/assets/736c9ffc-4c67-4088-a2cf-34604b459af5" />
+<img width="974" height="654" alt="image" src="https://github.com/user-attachments/assets/7dc1085d-3c4e-46d8-81e0-8e9c115dea39" />
+<img width="974" height="861" alt="image" src="https://github.com/user-attachments/assets/9741abf5-3eda-4696-b22d-5cccb68c4fb2" />
+
 
